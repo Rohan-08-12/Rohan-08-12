@@ -1,10 +1,39 @@
-- 👋 Hi, I’m Rohan
-- 👀 I’m interested in Web development and other programming languages 
-- 🌱 I’m currently learning Web development and Java lang
-- 💞️ I’m looking to collaborate on Web Dev projects
-- 😄 Pronouns: He/him
+👋 Hi, I’m Rohan
 
-<!---
-Rohan-08-12/Rohan-08-12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Aspiring Software Developer | 🌐 Web Development Enthusiast | 📊 Tech Explorer
+
+👀 About Me
+
+Passionate about web development and building user-focused applications.
+
+Currently pursuing Computer Programming and expanding my skills in Java, JavaScript, and backend systems.
+
+Excited to collaborate on web development projects and contribute to open-source.
+
+🚀 Skills & Tools
+
+Languages: JavaScript, Java, Python, PHP, SQL
+
+Web Development: Node.js, Express.js, React, MongoDB
+
+Tools & Platforms: Git, GitHub, Postman, Docker, Vercel, Azure
+
+Other Interests: Cloud & DevOps, APIs, Data Management
+
+🌱 Currently Learning
+
+Strengthening backend development with Node.js & Express
+
+Exploring Java for Data Structures & Algorithms
+
+Diving into cloud technologies and modern DevOps practices
+
+🤝 Collaboration
+
+Looking to work with developers on:
+
+Full-stack web projects
+
+APIs and backend services
+
+Open-source contributions
