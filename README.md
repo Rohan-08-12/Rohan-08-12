@@ -1,5 +1,3 @@
-<!-- Banner -->
-<img src="https://github.com/Rohan-08-12/Rohan-08-12/blob/main/banner.png" alt="Banner - Rohan Nayy er" width="100%"/>
 
 <!-- Animated Introduction -->
 <h1 align="center">
