@@ -48,11 +48,11 @@ I'm a Computer Programming student at **Georgian at ILAC, Toronto (Dean’s List
 
 ## 🧩 Projects You Might Like
 
-- 🗨️ **[MERN Chat App](https://github.com/Rohan-08-12)** – Real-time messaging with Socket.IO  
-- 🏕️ **[YelpCamp](https://github.com/Rohan-08-12)** – Full CRUD campground review site  
-- ✍️ **[Blog Site](https://github.com/Rohan-08-12)** – Node.js + MongoDB blogging platform  
-- 🌿 **[Plant Analysis Tool](https://github.com/Rohan-08-12)** – AI-based plant identification using Gemini API  
-- 💖 **Affinity** – Matchmaking app for introverts (in progress)
+- 🗨️ **[MERN Chat App](https://github.com/Rohan-08-12/mern-chat-backend.git)** – Real-time messaging with Socket.IO  
+- 🏕️ **[YelpCamp](https://github.com/Rohan-08-12/YelpCamp.git)** – Full CRUD campground review site  
+- 🧠 **[Affinity](https://github.com/Rohan-08-12/affinity.git)** – AI-powered therapist and journaling platform for introverts 
+- 🌿 **[Plant Analysis Tool](https://github.com/Rohan-08-12)** – AI-based plant identification using Gemini API
+- 💳 **[Subsense](https://github.com/Rohan-08-12/SubSense.git)** – Smart subscription tracker for managing recurring expenses 
 
 ---
 
@@ -64,19 +64,6 @@ I'm a Computer Programming student at **Georgian at ILAC, Toronto (Dean’s List
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rohan-08-12/Rohan-08-12/output/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/Rohan-08-12/Rohan-08-12/output/github-contribution-grid-snake.svg" />
   </picture>
-</div>
-
----
-
-## 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-<div align="center">
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/Rohan-08-12/count.svg" />
 </div>
 
 ---
