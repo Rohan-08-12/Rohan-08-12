@@ -6,7 +6,7 @@
 
 ### 🚀 Aspiring Software Developer | MERN Stack | Node.js | React | PostgreSQL | Cloud & DevOps Enthusiast  
 
-I'm a Computer Programming student at **Georgian at ILAC, Toronto (Dean’s List)**, passionate about full-stack development, fintech innovation, and scalable software solutions. I love creating real-world applications using modern frameworks and cloud tools.
+I'm a full stack developer, passionate about full-stack development, fintech innovation, and scalable software solutions. I love creating real-world applications using modern frameworks and cloud tools.
 
 ---
 
