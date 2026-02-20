@@ -20,7 +20,7 @@ I'm a full stack developer, passionate about full-stack development, fintech inn
 
 <div align="center">
   <a href="mailto:rohannayyer8@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/></a>
-  <a href="https://linkedin.com/in/rohan-rohan-988858330"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/rohan-nayyer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Rohan-08-12"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
 
